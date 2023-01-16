@@ -5,7 +5,7 @@
 #### 현재 프론트 공부중이며 향후 백엔드도 공부하고 싶은 신입 개발자입니다.
 ---
 ## 📌SKill
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
 
 <!--
