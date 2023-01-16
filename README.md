@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20github&fontSize=70)
+
+## 🙇 About Me
+#### 안녕하세요 신입 프론트엔드 개발자 강지수입니다. 
+#### 현재 프론트 공부중이며 향후 백엔드도 공부하고 싶은 신입 개발자입니다.
+---
+## 📌SKill
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 
 <!--
 **KJSoo95/KJSoo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
