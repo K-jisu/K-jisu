@@ -40,8 +40,7 @@
 </div>
 
 <div align = "center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@wltn7star)
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> Velog </h2>  
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wltn7star)](https://velog.io/@wltn7star)
   
