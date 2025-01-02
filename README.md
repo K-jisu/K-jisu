@@ -33,12 +33,11 @@
 
 <div align= "center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align= "center"> 
       <img align = "left" src="https://github-readme-stats.vercel.app/api?username=K-jisu&show_icons=true&theme=radical"/>
       <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-jisu&layout=donut-vertical"/>
-      <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-jisu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-      -->
-    </div> <br><br><br><br><br>
+<!--     <div align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-jisu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+    </div>   -->
 </div>
 
 <div align = "center">
