@@ -10,13 +10,13 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-jisu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-jisu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-jisu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wltn7star)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)][![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wltn7star)](https://github.com/eungyeole/velog-readme-stats)
 
 <!--
 **KJSoo95/KJSoo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
