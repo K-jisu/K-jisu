@@ -36,11 +36,14 @@
     <div align= "center"> 
       <img src="https://github-readme-stats.vercel.app/api?username=K-jisu&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-jisu&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> 
-    </div> 
+    </div> <br>
 </div>
 
 <div align = "center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@wltn7star)<br>
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@wltn7star)
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wltn7star)](https://velog.io/@wltn7star)
+  
 </div>
     
